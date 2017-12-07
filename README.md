@@ -13,8 +13,7 @@ Tiana Prince
 In this assignment, we used coding and referred to ajax methods to add in the corresponding code required for all 5 fields of the application to work.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tjp15b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. An API is an easy and helpful way to build an application instead of from scratch.
